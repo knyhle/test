@@ -1,4 +1,4 @@
 github.com/knyhle/test/services/test1 v0.0.1 h1:Rd57U+vuFGHM2CzKGDeArt6TDSDiW6wb7n1e+elsGOU=
 github.com/knyhle/test/services/test1 v0.0.1/go.mod h1:ueaL2FrNS0wZ7io2XXILt5UMj4LormW0wSJX7q+wXBw=
-github.com/knyhle/test/services/test2 v0.0.1 h1:8s/QMMwtVxCh64UMO0VvC3WzQhCbbvenD989bj/9ty8=
-github.com/knyhle/test/services/test2 v0.0.1/go.mod h1:c+mMNssZT44Sxwg3gHnecKdv4GXEZVh0bMtIo+vmQVs=
+github.com/knyhle/test/services/test2 v0.0.2 h1:oo/MlcUM+OGNrD2EFtaQs1pZq1G3r+BxSErm5J3qdC4=
+github.com/knyhle/test/services/test2 v0.0.2/go.mod h1:c+mMNssZT44Sxwg3gHnecKdv4GXEZVh0bMtIo+vmQVs=
